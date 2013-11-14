@@ -1,4 +1,4 @@
-spell-check
-===========
+Coding Katas
+============
 
-Spell check kata.
+Various coding practice projects.

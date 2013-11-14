@@ -1,4 +1,4 @@
-package com.ianbrandt.kata.spellcheck;
+package com.ianbrandt.katas.spellcheck;
 
 import static org.fest.assertions.api.Assertions.assertThat;
 

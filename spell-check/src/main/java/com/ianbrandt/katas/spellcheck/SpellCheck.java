@@ -1,4 +1,4 @@
-package com.ianbrandt.kata.spellcheck;
+package com.ianbrandt.katas.spellcheck;
 
 import java.util.List;
 
